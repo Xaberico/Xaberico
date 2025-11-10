@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm xaberico</h1>
-<h3 align="center">A passionate computer science student from Argentina</h3>
+<h3 align="center">A passionate IT Technician from Argentina</h3>
 
-- 🔭 I’m currently working on [PyWorld](https://github.com/Xaberico/pyworld)
 
-- 🌱 I’m currently learning **Python, HTML, CSS, JS**
+- 🌱 I’m currently learning **ReactJS**
 
 - ⚡ Fun fact **I hate and love everything**
 
