@@ -7,15 +7,19 @@ Focused on building solid fundamentals and practical projects.
 
 - 🔧 IT Technician with hands-on experience in troubleshooting, hardware and software support  
 - 🎓 Currently studying **Computer Engineering**  
-- 🌱 Learning **ReactJS** and improving my **JavaScript** skills  
 - 🧠 Interested in **software development**, **automation**, and **problem solving**  
 - ⚡ Fun fact: I like things clean, structured, and brutally efficient  
 
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left">
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
+
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
+  </a>
+
+  <a href="https://isocpp.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
   </a>
 
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
@@ -33,4 +37,5 @@ Focused on building solid fundamentals and practical projects.
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   </a>
+
 </p>
